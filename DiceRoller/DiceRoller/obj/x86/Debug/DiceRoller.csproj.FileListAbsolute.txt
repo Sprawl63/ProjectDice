@@ -1,0 +1,9 @@
+C:\Users\Brenton\Documents\Visual Studio 2010\Projects\DiceRoller\DiceRoller\bin\Debug\DiceRoller.exe
+C:\Users\Brenton\Documents\Visual Studio 2010\Projects\DiceRoller\DiceRoller\bin\Debug\DiceRoller.pdb
+C:\Users\Brenton\Documents\Visual Studio 2010\Projects\DiceRoller\DiceRoller\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brenton\Documents\Visual Studio 2010\Projects\DiceRoller\DiceRoller\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Brenton\Documents\Visual Studio 2010\Projects\DiceRoller\DiceRoller\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Brenton\Documents\Visual Studio 2010\Projects\DiceRoller\DiceRoller\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Brenton\Documents\Visual Studio 2010\Projects\DiceRoller\DiceRoller\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Brenton\Documents\Visual Studio 2010\Projects\DiceRoller\DiceRoller\obj\x86\Debug\DiceRoller.exe
+C:\Users\Brenton\Documents\Visual Studio 2010\Projects\DiceRoller\DiceRoller\obj\x86\Debug\DiceRoller.pdb
